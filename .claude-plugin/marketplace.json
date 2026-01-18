@@ -838,6 +838,7 @@
       "commands": ["./commands/full-review.md", "./commands/pr-enhance.md"],
       "agents": [
         "./agents/code-reviewer.md",
+        "./agents/responsibility-duplication-reviewer.md",
         "./agents/architect-review.md",
         "./agents/security-auditor.md"
       ]

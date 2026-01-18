@@ -112,6 +112,7 @@ Complete reference for all **100 specialized AI agents** organized by category w
 | Agent                                                                                            | Model | Description                                                     |
 | ------------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------- |
 | [code-reviewer](../plugins/comprehensive-review/agents/code-reviewer.md)                         | opus  | Code review with security focus and production reliability      |
+| [responsibility-duplication-reviewer](../plugins/comprehensive-review/agents/responsibility-duplication-reviewer.md) | opus  | Duplicate responsibilities, redundant entry points, logic drift |
 | [security-auditor](../plugins/comprehensive-review/agents/security-auditor.md)                   | opus  | Vulnerability assessment and OWASP compliance                   |
 | [backend-security-coder](../plugins/data-validation-suite/agents/backend-security-coder.md)      | opus  | Secure backend coding practices, API security implementation    |
 | [frontend-security-coder](../plugins/frontend-mobile-security/agents/frontend-security-coder.md) | opus  | XSS prevention, CSP implementation, client-side security        |
